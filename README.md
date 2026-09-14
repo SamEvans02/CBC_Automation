@@ -1,5 +1,2 @@
-# Columbine_Baptist_Church_Automation
-A repository storing automation projects for Columbine Baptist Church. 
-
-
-testtest
+# Columbine Baptist Church Automation
+A repository storing automation projects for Columbine Baptist Church  
