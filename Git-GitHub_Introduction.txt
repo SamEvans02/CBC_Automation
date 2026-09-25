@@ -1,0 +1,21 @@
+What is Git? 
+
+
+
+
+What is GitHub? 
+
+
+
+
+What is a repository? 
+
+
+
+
+What is the README.md file? 
+
+
+
+
+What is the .gitignore file? 
