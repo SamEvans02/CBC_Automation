@@ -27,12 +27,16 @@
 
 
 ## Package Installation and Basic Tests 
-1. Check to see if you have multiple versions of Python on your computer: 
+1. Open up PowerShell as administrator 
+2. Check to see if you have multiple versions of Python on your computer: 
     > py -0p
-2. If you do, then make sure you download the packages to the proper Python installation: 
+3. If you do, then make sure you download the packages to the proper Python installation: 
     > py -3.6 -m pip install python-obs
+
     > py -3.6 -m pip install websockets==9.1
+
     > pip install obs-websocket-py
+
     - Make sure the installation number matches your own 
 
 
