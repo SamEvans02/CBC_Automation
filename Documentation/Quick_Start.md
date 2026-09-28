@@ -3,7 +3,7 @@
 ## Installation and First Script Run 
 1. Download Python from it's website: https://www.python.org/downloads/release/python-368/ 
     - Only versions 3.6 - 3.12 are compatible with OBS 
-2. For instance, I downloaded version 3.6.8 and selected "Windows x86-64 executable installer" 
+2. For instance, I downloaded version 3.6.8 and selected _Windows x86-64 executable installer_ 
 3. When the install wizard window pops up select _Add Python 3.6 to PATH_ 
     - If you downloaded a different version, then whatever version you downloaded will appear in place of _3.6_ 
 4. Once the installation is done, select the _Close_ button on the bottom-left of the window 
