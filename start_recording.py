@@ -4,7 +4,7 @@ import obsws_python as obs
 # Default host is localhost and default port for v5 is 4455
 OBS_HOST = "localhost"
 OBS_PORT = 4455
-OBS_PASSWORD = ";lkj;lkj71"
+OBS_PASSWORD = "password"
 
 def start_obs_recording():
     try:
